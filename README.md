@@ -322,22 +322,6 @@ Tested scenarios include:
 - User deactivation
 - Exception handling
 
----
-
-# 📚 Learning Outcomes
-
-This project helped in understanding:
-
-- Real-world backend architecture
-- API request-response lifecycle
-- DTO and Mapper usage
-- Layer separation principles
-- Database interaction using JPA
-- Exception handling strategies
-- REST API development best practices
-
----
-
 # 👨‍💻 Author
 
 Ritu Raj
